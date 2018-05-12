@@ -1,4 +1,8 @@
 _repo: Lingam-Zwolf-asiatische-Novellen_47467
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47467-h/images/cover.jpg
 creator:
   author:
     agent_name: Dauthendey, Max
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26361
     wikipedia: http://de.wikipedia.org/wiki/Max_Dauthendey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47467#Lingam-Zwolf-asiatische-Novellen
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
 identifiers:
